@@ -41,7 +41,7 @@ git clone https://github.com/omorros/japeto-convo-classifier.git
 cd japeto-convo-classifier
 
 
-Install dependencies:
+* Install dependencies:
 
 pip install -r requirements.txt
 
