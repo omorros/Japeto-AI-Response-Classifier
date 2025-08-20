@@ -32,3 +32,34 @@ chatbot_dataset.xlsx – Training dataset of chatbot messages
 
 README.md – Project documentation
 
+
+# How to Run
+
+Clone the repository:
+
+git clone https://github.com/omorros/japeto-convo-classifier.git
+cd japeto-convo-classifier
+
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+
+Open the Jupyter notebook:
+
+jupyter notebook Final-version-Japeto.ipynb
+
+
+# Results
+
+Achieved over 85% accuracy on unseen test data
+
+Categories align with scripted chatbot analytics
+
+Supports fallback to manual tagging if confidence is low
+
+
+# About Japeto
+
+Japeto is a UK based software agency specialising in AI-driven chatbot solutions for healthcare, government, and education sectors.
