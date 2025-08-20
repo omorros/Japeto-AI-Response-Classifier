@@ -53,7 +53,7 @@ jupyter notebook Final-version-Japeto.ipynb
 
 # Results
 
-Achieved over 85% accuracy on unseen test data
+Achieved 91.6% accuracy on unseen test data
 
 Categories align with scripted chatbot analytics
 
