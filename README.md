@@ -35,7 +35,7 @@ README.md – Project documentation
 
 # How to Run
 
-Clone the repository:
+* Clone the repository:
 
 git clone https://github.com/omorros/japeto-convo-classifier.git
 cd japeto-convo-classifier
@@ -46,7 +46,7 @@ cd japeto-convo-classifier
 pip install -r requirements.txt
 
 
-Open the Jupyter notebook:
+* Open the Jupyter notebook:
 
 jupyter notebook Final-version-Japeto.ipynb
 
