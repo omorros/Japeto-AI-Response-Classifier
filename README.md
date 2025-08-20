@@ -13,11 +13,11 @@ This project develops a classifier to categorise AI-generated chatbot responses 
 
 # Features
 
-Classifies AI-generated responses into meaningful categories
+Classifies AI generated responses into meaningful categories
 
 Uses a dataset of 1,500+ tagged chatbot conversations
 
-Supports real-time or batch classification
+Supports real time or batch classification
 
 Enhances chatbot analytics dashboard visibility
 
