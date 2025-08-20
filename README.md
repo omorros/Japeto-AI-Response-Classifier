@@ -3,11 +3,13 @@
 Machine learning project for Japeto Chat to categorise AI-generated chatbot responses.
 Trained on 1,500+ tagged conversations, the model classifies responses into predefined categories to improve analytics accuracy and insights for chatbot owners in healthcare, government, and education.
 
+
 # Project Overview
 
 Japeto Chat enables organisations to build and manage AI-driven chatbots.
 While scripted responses are pre-tagged, AI-generated responses lack category labels, limiting analytics.
 This project develops a classifier to categorise AI-generated chatbot responses with an accuracy target of 85% or higher.
+
 
 # Features
 
@@ -21,6 +23,7 @@ Enhances chatbot analytics dashboard visibility
 
 Built with Python, Jupyter, scikit-learn, and transformers
 
+
 # Repository Contents
 
 Final-version-Japeto.ipynb – Jupyter Notebook with training and evaluation code
@@ -28,3 +31,4 @@ Final-version-Japeto.ipynb – Jupyter Notebook with training and evaluation cod
 chatbot_dataset.xlsx – Training dataset of chatbot messages
 
 README.md – Project documentation
+
