@@ -37,9 +37,6 @@ README.md – Project documentation
 
 * Clone the repository:
 
-git clone https://github.com/omorros/japeto-convo-classifier.git
-cd japeto-convo-classifier
-
 
 * Install dependencies:
 
