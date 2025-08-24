@@ -7,7 +7,7 @@ Trained on 1,500+ tagged conversations, the model classifies responses into pred
 # Project Overview
 
 Japeto Chat enables organisations to build and manage AI-driven chatbots.
-While scripted responses are pre-tagged, AI-generated responses lack category labels, limiting analytics.
+While scripted responses are pre tagged, AI-generated responses lack category labels, limiting analytics.
 This project develops a classifier to categorise AI-generated chatbot responses with an accuracy target of 85% or higher.
 
 
